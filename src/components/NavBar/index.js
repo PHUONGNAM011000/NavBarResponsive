@@ -32,8 +32,8 @@ const Navbar = () => {
           {/* <NavBtnLink to='/sign-in'>Sign In</NavBtnLink> */}
         </NavMenu>
         <NavBtn>
-          <NavLink to="/sign-up">Sign Up</NavLink>
-          <NavBtnLink to="/signin">Sign In</NavBtnLink>
+          <NavLink to="/sign-up">Đăng ký</NavLink>
+          <NavBtnLink to="/signin">Đăng Nhập</NavBtnLink>
         </NavBtn>
       </Nav>
     </>
